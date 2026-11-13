@@ -1,0 +1,15 @@
+In index.html, inside the <head> section, add these tags (replace existing duplicates):
+
+<meta name="description" content="LaRel is a premium digital studio in Nairobi, Kenya, designing and building modern websites, e-commerce stores, and digital experiences for ambitious businesses.">
+<meta property="og:title" content="LaRel | larelai.netlify.app">
+<meta property="og:description" content="Premium website design, web development, e-commerce, and digital experiences for ambitious businesses.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://larelai.netlify.app/">
+<link rel="canonical" href="https://larelai.netlify.app/">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<meta name="twitter:card" content="summary">
+
+Set the page title to:
+<title>larelai.netlify.app</title>
+
+Upload favicon.svg, sitemap.xml, and robots.txt to the repository root, beside index.html.
